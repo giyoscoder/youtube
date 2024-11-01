@@ -1,7 +1,10 @@
+import Router from "./router"
 
 const App = () => {
   return (
-    <div>App page!</div>
+    <div>
+      <Router />
+    </div>
   )
 }
 
