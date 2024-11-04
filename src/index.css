@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    --smallSize: 12px;
+    --middleSize:16px;
+    --largeSize: 24px;
+}
+
+
